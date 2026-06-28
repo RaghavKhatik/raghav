@@ -69,11 +69,8 @@ data into meaningful insights and building functional web applications.
 ---
 
 ## 📊 GitHub Stats
+![Raghav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaghavKhatik&show_icons=true&theme=default&hide_border=true)
 
-![Raghav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavKhatik&layout=compact&hide_border=true)
 
 *Thanks for visiting! Feel free to connect on [LinkedIn](https://linkedin.com/in/raghavkhatik)* 🤝
