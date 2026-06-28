@@ -73,4 +73,6 @@ data into meaningful insights and building functional web applications.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavKhatik&layout=compact&hide_border=true)
 
+![...](https://github-readme-stats.vercel.app/api?username=...)
+
 *Thanks for visiting! Feel free to connect on [LinkedIn](https://linkedin.com/in/raghavkhatik)* 🤝
