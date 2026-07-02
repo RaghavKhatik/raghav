@@ -59,7 +59,8 @@ data into meaningful insights and building functional web applications.
 ---
 
 ## 🏆 Certifications
-
+      
+- 📊 Tata - GenAI Powered Data Analytics Job Simulation Forage · (2026)
 - 🐍 Python Programming Bootcamp — Indeed Inspiring Infotech (2025)
 - 📊 Data Analyst Masterclass — PW Skills (2025)
 - 🏅 AlgoArena 1.0 — HackerRank & Mandsaur University (2025)
